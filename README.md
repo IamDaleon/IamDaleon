@@ -1,6 +1,6 @@
 ### Hey there, fellow coder 👋
 
-- 🔭 I’m currently working on my Tailwind CSS skills, Arduino, Django & [Solar Hydroponics]('https://github.com/IamDaleon/SolarHydroPonics')
+- 🔭 I’m currently working on my Tailwind CSS skills, Arduino, Django & [Solar Hydroponics](https://github.com/IamDaleon/SolarHydroPonics)
 - 🌱 I’m currently learning Flutter, Electon and NextJS
 - 👯 I’m looking to collaborate on more open source projects
 - 📫 How to reach me: @iamDaleon
