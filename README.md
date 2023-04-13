@@ -1,6 +1,6 @@
 ### Hey there, fellow coder 👋
 
-- 🔭 I’m currently working on Javacript/TypeScript, React, Tailwind,CSS 3, Arduino [Automated Pantry Light](https://github.com/IamDaleon/Automate_Pantry_Light) & [Solar Hydroponics](https://github.com/IamDaleon/SolarHydroPonics) Projects
+- 🔭 I’m currently working on Javacript/TypeScript, React, Tailwind,CSS 3, Arduino - [Automate Pantry Light](https://github.com/IamDaleon/Automate_Pantry_Light) & [Solar Hydroponics](https://github.com/IamDaleon/SolarHydroPonics) Projects
 - 🌱 I’m currently learning Flutter and Wordpress/ReactPress
 - 📳 Recently created an internal app, which utilizing Electron - [TashTash](https://github.com/IamDaleon/tashTash) | 
 - 👯 I’m always open to collaborate on projects
