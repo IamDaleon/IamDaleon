@@ -1,7 +1,7 @@
 ### Hey there, fellow coder 👋
 
 - 🔭 I’m currently working on Javacript/TypeScript, React, Tailwind,CSS 3, Arduino & [Solar Hydroponics](https://github.com/IamDaleon/SolarHydroPonics) Projects
-- 🌱 I’m currently learning Flutter and Wordpress/ReactPress
+- 🌱 I’m currently learning Flutter, Server monitoring and Wordpress/ReactPress
 - 📳 Recently created an internal app, which utilizing Electron (Frontend) - Standalone WebScrapper (w/ Docker, Selenium, and MongoDB ) (Backend)
 - 👯 I’m always open to collaborate on projects
 - 📫 How to reach me: [@iamDaleon](https://twitter.com/iamDaleon)
