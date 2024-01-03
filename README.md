@@ -6,6 +6,6 @@ I am Daleon. I am a full-stack engineer who dabbles in IoT, automation, and A.I.
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: I skateboard, draw, and do photography [DListPhotos](https://instagram/DListPhotos)
 
-I created products like Tash, [BackwoodSports](https://backwoodsports.com/), [ThePokePoint](http://thepokepoint.com/), and more. 
+I created products like Tash, and worked on sites such as [BackwoodSports](https://backwoodsports.com/), [ThePokePoint](http://thepokepoint.com/), and more. 
 I'm currently looking for new opportunities. 
 📫 How to reach me: [@iamDaleon](https://twitter.com/iamDaleon) | [Linkedin](https://www.linkedin.com/in/daleonlisthrop/) | [E-mail](mailto:daleon86@gmail.com)
