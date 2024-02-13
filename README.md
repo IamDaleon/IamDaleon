@@ -9,4 +9,4 @@ I am Daleon, a full-stack developer who dabbles in IoT, automation, and A.I. I h
 I created products like Tash (A knowledge hub for new hires and existing employees), websites I have worked on include [BackwoodSports](https://backwoodsports.com/), [ThePokePoint](http://thepokepoint.com/), and several more. 
 I'm currently looking for new remote opportunities. 
 
-📫 How to reach me: [@iamDaleon](https://twitter.com/iamDaleon) | [Linkedin](https://www.linkedin.com/in/daleonlisthrop/) | [Artstation](https://iamdaleon.artstation.com) | [E-mail](mailto:daleon86@gmail.com) 
+📫 How to reach me: [@iamDaleon](https://twitter.com/iamDaleon) | [Linkedin](https://www.linkedin.com/in/daleonlisthrop/) | [Artstation](https://iamdaleon.artstation.com)
